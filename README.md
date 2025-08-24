@@ -52,3 +52,4 @@ Overall, WhatsApp chat analyzer addresses a range of problems related to communi
 The WhatsApp Chat Analyzer is deployed on [Render](https://render.com/) and [GitHub](https://github.com/). Users can access the analyzer via the provided links.
 
 
+# WhatsApp-Chat-Analyser-Tool
